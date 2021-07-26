@@ -1,7 +1,7 @@
 
-# ** First Project Yandex Practikum **
+# **First Project Yandex Practikum**
 ____
-## ** name project: "Learn how to learn" **
+## **name project: "Learn how to learn"**
 ____
 Contains information about the project
 ____
