@@ -1,0 +1,8 @@
+.link_theme_blue {
+  text-decoration: none;
+  color: #2f80ed;
+  transition: opacity 0.2s linear;
+}
+.link_theme_blue:hover {
+  opacity: 0.6;
+}
